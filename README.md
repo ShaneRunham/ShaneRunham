@@ -19,6 +19,8 @@ Forgejo with CI, an offline voice assistant, and nightly btrfs snapshots to a mi
 for PlayStation and Nintendo Switch friends, and GTA VI news. It also streams **📻 Vice Radio**, a music
 station running on Liquidsoap.
 
+<img src="screens/discord-bot.jpg" alt="The VICE bot's status, control, who's-online and game cards in Discord" width="100%">
+
 ### Tools
 
 ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white)
