@@ -8,8 +8,12 @@ them together. Most of it lives on my own Git server, so the green squares below
 **📺 Vice Home** · a home screen for an LG webOS TV. It has live tiles for the PS5 and Switch, a radio, on-screen
 cards for alerts and now-playing, and a phone remote. Built with JavaScript and a small Python service.
 
+<img src="screens/vice-home-tv.jpg" alt="Vice Home on the TV" width="100%">
+
 **🏠 Homelab** · Docker on Fedora: Home Assistant (with a custom dashboard panel), Jellyfin, Uptime Kuma,
 Forgejo with CI, an offline voice assistant, and nightly btrfs snapshots to a mirrored drive.
+
+<img src="screens/panel-tablet.jpg" alt="The Home Assistant panel on a tablet" width="72%"> <img src="screens/panel-phone.jpg" alt="The Home Assistant panel on a phone" width="25%">
 
 **🤖 VICE** · a Discord bot in Python (discord.py). It posts a live server status card, alerts, "playing now" cards
 for PlayStation and Nintendo Switch friends, and GTA VI news. It also streams **📻 Vice Radio**, a music
