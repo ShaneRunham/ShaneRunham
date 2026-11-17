@@ -8,7 +8,7 @@ with every screen documented in each repo.
 <a href="https://github.com/ShaneRunham/Homelab"><img src="https://img.shields.io/badge/Homelab-21262d?style=for-the-badge&logo=homeassistant&logoColor=3fb950" alt="Homelab"></a>
 <a href="https://github.com/ShaneRunham/VICE-Bot"><img src="https://img.shields.io/badge/VICE_Bot-21262d?style=for-the-badge&logo=discord&logoColor=58a6ff" alt="VICE Bot"></a>
 <a href="https://github.com/ShaneRunham/VICE-Home"><img src="https://img.shields.io/badge/VICE_Home-21262d?style=for-the-badge&logo=lg&logoColor=ffa657" alt="VICE Home"></a>
-<a href="https://github.com/ShaneRunham/VICE-Radio"><img src="https://img.shields.io/badge/VICE_Radio-21262d?style=for-the-badge&labelColor=21262d&color=21262d" alt="VICE Radio"></a>
+<a href="https://github.com/ShaneRunham/VICE-Radio"><img src="https://img.shields.io/badge/VICE_Radio-21262d?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZDJhOGZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTQuOSAxNi4xQzEgMTIuMiAxIDUuOCA0LjkgMS45TTcuOCA0LjdhNi4xIDYuMSAwIDAgMC0uOCA3LjVNMTYuMiA0LjhjMiAyIDIuMyA1LjEuOCA3LjVNMTkuMSAxLjlhMTAgMTAgMCAwIDEgMCAxNC4xIi8+PGNpcmNsZSBjeD0iMTIiIGN5PSI5IiByPSIyIi8+PHBhdGggZD0iTTggMjJsNC0xMSA0IDExTTkuNSAxOGg1Ii8+PC9zdmc+" alt="VICE Radio"></a>
 </p>
 
 ## Projects
@@ -31,7 +31,7 @@ A Discord bot in Python. It keeps a live status card for the server, works out t
 Home Assistant, posts "playing now" cards for friends on PlayStation and Switch, follows GTA VI news and plays Vice
 Radio in a voice channel.
 
-<img src="screens/vice-bot/status-top.jpg" alt="The #status card" width="32%"> <img src="screens/vice-bot/status.jpg" alt="#status with its graphs" width="32%"> <img src="screens/vice-bot/alerts.jpg" alt="Wanted Level cards in #alerts" width="32%">
+<img src="screens/vice-bot/status-card.jpg" alt="The live #status card" width="48%"> <img src="screens/vice-bot/lost-them.jpg" alt="A Wanted Level card in #alerts" width="48%">
 
 <img src="https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/discord.py-21262d?style=flat-square&logo=discord&logoColor=white" alt="discord.py">
 
